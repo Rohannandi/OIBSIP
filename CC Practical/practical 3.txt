@@ -1,0 +1,12 @@
+public class Demo {
+    public static decimal metho(){
+        Integer a=10;
+        Integer b=5;
+        Integer sum=a+b;
+        Integer differences=a-b;
+        System.debug('The Sum of '+ a +' and '+ b +' is '+ sum);
+        System.debug('The Substraction of '+ a +'and '+ b +'is '+ sum);
+        return sum;             
+    }
+
+}
